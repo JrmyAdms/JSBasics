@@ -1,0 +1,2 @@
+# JSBasics
+Odin Project Fundamentals
